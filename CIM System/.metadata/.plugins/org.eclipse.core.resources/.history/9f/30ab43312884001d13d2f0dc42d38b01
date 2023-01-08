@@ -1,0 +1,8 @@
+package com.zengb.p.util;
+
+public class Snippet {
+	public static void main(String[] args) {
+		CMUtility
+	}
+}
+
